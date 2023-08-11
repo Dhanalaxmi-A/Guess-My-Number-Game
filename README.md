@@ -2,7 +2,7 @@
 
 ### Goal of the Project - <span style="color: red;">Guess a secret number which is between 1 and 20.</span>
 
-![Default](/Images/Project-1%20Dark.png)
+![Default](/Images/Project-1Dark.png)
 
 We can type a number in the Input box.
 Example - Enter 10 in the Input Box, then click **Check!**
@@ -17,7 +17,7 @@ And now it's correct if we enter the expected number.
 So you see that we get this **Correct number!** message on the right.
 
 The screen turns _Green_ and also we now have the **Highscore** here of 17.
-![Correct Answer](/Images/Project-1%20Green.png)
+![Correct Answer](/Images/Project-1Green.png)
 
 A Highscore is another feature of this small application.
 Then if you want to play again,we can simply click the **Play Again!** button and it all resets everything except for the Highscore.
